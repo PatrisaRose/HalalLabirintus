@@ -1,0 +1,3 @@
+def oldal66():
+    palya = int(input('\nNéhány perc gyaloglás után egy elágazáshoz érsz az alagútban. \nEgy, a falra festett fehér nyíl nyugatfelé mutat. \nA földön nedves lábnyomok jelzik, merre haladtak az előtted járók. \nNehéz biztosan megmondani, de úgy tűnik, hogy három közülük a nyíl irányába halad, míg egyikük úgy döntött, hogy keletnek megy. \nHa nyugat felé kívánsz menni, lapozz a 293-ra. \nHa keletnek, lapozz a 56-re. '))
+    return palya
